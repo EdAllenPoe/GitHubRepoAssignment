@@ -1,0 +1,11 @@
+1. Went to Gethub and created a new repository called GitHubRepoAssignment
+2. Opened local cmd and used md to make GitHubRepoAssignment directory
+3. cd GitHubRepoAssignment
+4. git init (to initialize the repository)
+5. Added readme.md file using copy nul readme.md
+6. Edited the readme.md file using Atom
+7. Added the file to the repository using git add .
+8. Committed the file using git commit -m "explanation"
+9. Copied the "add origin" link from Github into cmd
+10.Copied the "push" link from Github to cmd
+11.Refreshed Github to cofirm the push was successful
